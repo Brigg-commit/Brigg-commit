@@ -1,4 +1,4 @@
-<img src ="/storage/emulated/0/Download/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif" target ="Coding From Home"> 
+<img src ="/storage/emulated/0/Download/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif" alt ="Coding From Home"/> 
 
 👋 Hi, I’m @Brigg-commit
 - 👀 I’m looking for help with front end and back end
